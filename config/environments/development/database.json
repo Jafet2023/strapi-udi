@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "database": "project",
+        "host": "jafet-xjund.mongodb.net",
+        "srv": "true",
+        "port": 27017,
+        "username": "jafet",
+        "password": "jafecito"
+      },
+      "options": {
+        "authenticationDatabase": "",
+        "ssl": true
+      }
+    }
+  }
+}
