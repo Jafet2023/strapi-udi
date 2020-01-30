@@ -7,7 +7,7 @@
         "host": "jafet-xjund.mongodb.net",
         "port": 27017,
         "srv": "false",
-        "database": "strapi",
+        "database": "project",
         "username": "Jafet",
         "password": "JPGonzales23",
         "ssl": "false",
